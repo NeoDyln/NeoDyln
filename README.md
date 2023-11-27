@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+  - Front End Mentor Challenges: [https://www.frontendmentor.io/profile/NeoDyln](https://www.frontendmentor.io/profile/NeoDyln)
+  - Portfolio Site (Coming Up soon)
+- 🌱 I’m currently learning
+  - ALX Software Engineering
+  - Web Development
+  - Data Analytics
 <!--
 **NeoDyln/NeoDyln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
